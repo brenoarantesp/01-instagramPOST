@@ -1,0 +1,73 @@
+img {
+    width: 100%;
+}
+
+.bottom {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+
+}
+
+.post {
+    margin: auto;
+    width: 800px;
+    background-color: ;
+}
+
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.fa-brands.fa-html5 {
+    font-size: 50px;
+    margin: 15px;
+}
+
+.fa-solid.fa-ellipsis-vertical {
+    font-size: 40px;
+    margin: 15px;
+}
+
+.fa-solid.fa-heart {
+    font-size: 35px;
+}
+.fa-solid.fa-comment-dots {
+    font-size: 35px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.fa-solid.fa-square-arrow-up-right {
+    font-size: 35px;
+}
+.fa-solid.fa-bookmark {
+    font-size: 35px;
+
+}
+
+.header_username {
+    width: 80%;
+}
+
+.icons {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+}
+.icons_right {
+    margin: 15px;
+}
+.likes {
+    padding: 0px 10px 0px 10px;
+    display: flex;
+    margin: 0px;
+}
+
+.subtitle {
+    padding: 0px 10px 0px 10px;
+}
